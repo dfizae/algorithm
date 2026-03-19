@@ -17,7 +17,7 @@
 ## 📁 Repository Structure
 알고리즘 개념 및 플랫폼별로 패키지를 분리하여 코드를 관리합니다.
 
-\`\`\`text
+```text
 src/
 ├── baekjoon/          # 백준 온라인 저지 문제
 ├── bfs/               # 너비 우선 탐색
@@ -26,7 +26,7 @@ src/
 ├── dp/                # 동적 계획법
 ├── greedy/            # 탐욕법
 └── etc/               # 기타, 각종 정렬 등등
-\`\`\`
+```
 
 ## 📌 Commit Message Convention
 깃허브 히스토리를 직관적으로 파악하기 위해 아래의 커밋 규칙을 준수합니다.
