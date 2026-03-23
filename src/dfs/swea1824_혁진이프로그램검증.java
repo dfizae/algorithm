@@ -1,3 +1,5 @@
+package dfs;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -17,7 +19,7 @@ class Point {
     }
 }
 
-public class Solution { // SWEA 제출용 기본 클래스명
+public class swea1824_혁진이프로그램검증 { // SWEA 제출용 기본 클래스명
     static int R, C;
     static char[][] lines;
     
