@@ -1,5 +1,3 @@
-package baekjoon;
-
 import java.util.Scanner;
 
 public class Bj_15469nm1 {
